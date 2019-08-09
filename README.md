@@ -45,4 +45,9 @@ FF:FF:FF:FF:FF:FF | 3233
 ------------------------------
 ```
 
-Just uncomment the function that you would like to run.
+You can import the functions or you can run the .py file and just uncomment the function(at the bottom of the code) that you would like to run.
+
+```
+# mac_des_count()
+# mac_src_count()
+```
